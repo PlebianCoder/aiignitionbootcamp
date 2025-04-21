@@ -20,4 +20,4 @@
 **Keep Learning & Sharing!**
 
 ---
-[Back to Full Schedule](../schedule.md) 
+[Back to Full Schedule](../../README.md) 

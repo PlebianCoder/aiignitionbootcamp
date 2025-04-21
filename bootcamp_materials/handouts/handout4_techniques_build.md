@@ -35,4 +35,4 @@
     *   **Model Choice:** Reliability varies by model; experiment if needed.
 
 ---
-[Back to Full Schedule](../schedule.md) 
+[Back to Full Schedule](../../README.md) 

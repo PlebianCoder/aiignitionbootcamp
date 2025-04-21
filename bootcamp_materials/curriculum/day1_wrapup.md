@@ -46,4 +46,4 @@
 ## Materials
 *   Clarity Spectrum Diagram (Slide, optional)
 *   Link to Day 1 Survey
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

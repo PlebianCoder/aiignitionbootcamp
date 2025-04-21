@@ -33,4 +33,4 @@
 **Key Takeaway:** Match your AI interaction style and expectations to your current position on the spectrum for best results!
 
 ---
-[Back to Full Schedule](../schedule.md) 
+[Back to Full Schedule](../../README.md) 

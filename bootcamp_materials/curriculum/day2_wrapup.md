@@ -30,4 +30,4 @@
 
 ## Materials
 *   Link to Day 2 Survey
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

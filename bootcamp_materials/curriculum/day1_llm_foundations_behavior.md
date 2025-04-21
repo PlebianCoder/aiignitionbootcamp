@@ -57,4 +57,4 @@
 *   [Link to Further Reading on Sampling]
 
 **(Transition Note):** Now that we have some intuition for how LLMs behave, let's look at the specific models available in Cursor and their characteristics.
-*   [Back to Full Schedule](../schedule.md)
+*   [Back to Full Schedule](../../README.md)

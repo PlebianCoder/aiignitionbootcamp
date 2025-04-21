@@ -79,4 +79,4 @@
 **Notes:**
 - This checklist primarily covers the NYC onsite prep. Similar remote checks should be done by SF/TOR staff.
 - Remember to be flexible; unexpected issues may arise.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

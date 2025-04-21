@@ -54,7 +54,7 @@
 
 **Support:**
 - TAs circulate to help with TDD workflow, debugging AI errors, and refining prompts.
-*   [Back to Full Schedule](../schedule.md)
+*   [Back to Full Schedule](../../README.md)
 
 **Details:**
 

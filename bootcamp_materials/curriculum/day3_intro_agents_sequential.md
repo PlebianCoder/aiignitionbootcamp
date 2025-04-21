@@ -69,4 +69,4 @@
 - Use structured workflows (e.g., task files) to guide Agents.
 - Agents inherit LLM limitations and require *strong* safeguards (clear tasks, TDD, human review, Git).
 - Start with simple tasks and build up complexity.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

@@ -52,3 +52,4 @@
     1.  **Summarize:** Select a key function within `UserService` (e.g., `CreateUser`, `
 
 *   [Link to Workshop Repo (**Placeholder for specific fallback repo/docs if applicable**)]
+*   [Back to Full Schedule](../../README.md)

@@ -46,4 +46,4 @@
 *   **Task Decomposition:** Break down plan sections -> Specific, Measurable, Actionable Tasks ("Shovel-Ready"). Include Acceptance Criteria (AC). Use templates (Rules/Notepads). *Review tasks carefully for Right Side clarity.*
 
 ---
-[Back to Full Schedule](../schedule.md) 
+[Back to Full Schedule](../../README.md) 

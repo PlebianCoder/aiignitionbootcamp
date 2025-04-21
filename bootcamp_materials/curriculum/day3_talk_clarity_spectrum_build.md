@@ -59,4 +59,4 @@
 - Use focused context, small steps, and diligent review when implementing planned tasks.
 - Maintain context hygiene by starting fresh sessions for specific build tasks.
 - Treat AI output as a draft needing verification, especially during implementation.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

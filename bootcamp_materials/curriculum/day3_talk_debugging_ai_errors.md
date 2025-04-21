@@ -64,4 +64,4 @@
 - Treat AI errors as a temporary shift left on the Clarity Spectrum.
 - Use specific techniques (logs, explicit feedback, reversion, backtracking) to guide the AI back to correctness.
 - Don't be afraid to revert and restart when the AI gets stuck.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

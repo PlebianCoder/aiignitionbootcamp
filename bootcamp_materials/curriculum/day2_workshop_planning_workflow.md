@@ -65,4 +65,4 @@
 *   Validating generated content against the (scenario/demo) code.
 
 **Reference:** `planningerd.md` Sections 3, 4, 5, 6, 7.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

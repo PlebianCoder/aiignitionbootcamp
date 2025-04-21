@@ -78,4 +78,4 @@
 *   [Link to Cursor Docs: Rules]
 *   [Link to Cursor Docs: Notepads]
 *   [Link to Demo Project Files (if applicable)]
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

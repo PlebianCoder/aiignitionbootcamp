@@ -85,4 +85,4 @@
 *   [Link to Prompt Log Template]
 
 *(Add links to target repositories, specific module/feature suggestions, expected format for deliverables, common pitfalls)*
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

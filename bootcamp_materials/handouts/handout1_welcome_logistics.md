@@ -12,7 +12,7 @@ We're excited to have you at the AI Ignition Bootcamp! Over the next three days,
 *   Develop practical workflows you can apply immediately to your projects.
 *   Become an "AI Torchbearer" equipped to share learnings with your team.
 
-**Daily Schedule Overview (Check `../schedule.md` for full details):**
+**Daily Schedule Overview (Check `../../README.md` for full details):**
 
 *   **Start Time:** ~9:45 AM (Tech Checks & Arrival) / 10:00 AM (Sessions Start)
 *   **Lunch:** Around 12:00 PM - 1:00 PM (See daily schedule)
@@ -36,4 +36,4 @@ We're excited to have you at the AI Ignition Bootcamp! Over the next three days,
 **Let's get started!**
 
 ---
-[Back to Full Schedule](../schedule.md) 
+[Back to Full Schedule](../../README.md) 

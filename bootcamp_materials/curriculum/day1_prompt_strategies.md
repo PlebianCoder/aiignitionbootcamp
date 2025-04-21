@@ -104,4 +104,4 @@
 *   [Link to Prompt Log Template]
 
 **(Transition Note):** Now that we know how to instruct the AI more effectively, let's look at a structured way to use these prompts to understand code: the Navigator Pattern.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

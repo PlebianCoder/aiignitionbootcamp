@@ -52,4 +52,4 @@
 *   [Link to Welcome Slides]
 *   [Link to Support Channel Info]
 *   [Link to Prompt Log Template]
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

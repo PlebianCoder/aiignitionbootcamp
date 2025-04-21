@@ -60,4 +60,4 @@
 
 **Reference:** `planningerd.md` Section 8.
 **(Transition Note):** Okay, with these limitations in mind, let's put the full workflow into practice in the workshop.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

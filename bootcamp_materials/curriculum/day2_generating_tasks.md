@@ -68,4 +68,4 @@
 *   [Link to Demo `plan.md`]
 *   [Link to Task Template Rule/Notepad Example]
 *   `planningerd.md` Section 6 (Reference)
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

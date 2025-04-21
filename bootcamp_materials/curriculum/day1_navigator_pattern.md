@@ -61,4 +61,4 @@
 *   [Link to Demo Code (`PaymentService`)]
 
 **(Transition Note):** This pattern is great for understanding existing code. We'll apply this directly in the workshop later. Before that, let's see how AI can help *create* documentation for code.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

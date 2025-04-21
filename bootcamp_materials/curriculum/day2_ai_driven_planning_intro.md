@@ -61,4 +61,4 @@
 *   [Link to Slides]
 *   [Link to Demo Scenario Files (`feature_request.md`)]
 *   [Link to Mermaid Live Editor]
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

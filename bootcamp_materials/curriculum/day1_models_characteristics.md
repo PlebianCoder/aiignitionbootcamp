@@ -71,4 +71,4 @@
 *   *(Optional) [Link to SWE-Bench Results Summary]*
 
 **(Transition Note):** Understanding these model differences helps choose the right tool. Next, we'll focus on *how* to talk to these models effectively through prompting.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 

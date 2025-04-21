@@ -37,4 +37,4 @@
 ## Materials
 *   (Optional) Whiteboard or digital equivalent to jot down key themes/challenges mentioned.
 *   Reflection questions from `day2_workshop_planning_workflow.md`.
-*   [Back to Full Schedule](../schedule.md) 
+*   [Back to Full Schedule](../../README.md) 
