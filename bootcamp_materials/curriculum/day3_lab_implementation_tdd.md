@@ -24,6 +24,48 @@
 
 ---
 
+## Speaker Notes / Presentation Flow (Presentation/Demo Portion - 15 mins)
+
+**Slide Proposal:**
+
+**Slide 1: Title Slide**
+*   **Text:** Test-Driven Development (TDD) with AI: The Ultimate Validation
+*   **Things to Say:** "We've talked about the need for precision and validation on the Right Side of the Clarity Spectrum. Now we introduce the technique that provides the strongest foundation for this when working with AI: Test-Driven Development, or TDD."
+
+**Slide 2: Why TDD for AI-Generated Code?**
+*   **Text:**
+    *   TDD forces clarity -> Perfect for AI.
+    *   Tests *are* the specification for the AI on the Right Side.
+    *   Provides objective, automated correctness check.
+    *   Reduces reliance on manual functional review (Style/logic review still needed).
+*   **Things to Say:** "Why is TDD particularly powerful when working with AI? Because TDD, by its nature, forces you to clearly define the *expected behavior* before you write the implementation code. This clear specification is exactly what the AI needs to succeed on Right Side tasks."
+*   **Things to Say:** "Essentially, your tests become the unambiguous specification you feed to the AI. They provide an objective, automated way to verify if the AI-generated code actually does what you asked. This significantly reduces the burden of manual functional review, although you still need to review for style, non-functional requirements, and overall logic."
+
+**Slide 3: The AI-TDD Loop**
+*   **Text:** (Diagram/Steps)
+    1.  **Red:** Write/Identify *one* small failing test.
+    2.  **Skeleton:** Write minimal code structure.
+    3.  **Prompt AI:** Ask AI *specifically* to make *that test* pass (use focused context!).
+    4.  **Green:** Run tests. If pass, commit!
+    5.  **Iterate/Fix:** If fail, feed *exact error* back to AI for correction.
+    6.  **Refactor (Optional):** Ask AI for refactoring (ensure tests still pass).
+*   **Things to Say:** "The workflow looks like this classic TDD loop, but with AI integrated. Step 1: Red - Write a single, small failing test that defines the next piece of functionality. Step 2: Write the minimal code skeleton – just the function signature or class structure. Step 3: Prompt the AI *specifically* to implement the logic needed to make *that one failing test* pass, providing focused context like the test file and the code file. Step 4: Green - Run your tests. If the target test (and others) pass, commit! Step 5: Iterate/Fix - If the test fails, copy the exact error message and feed it back to the AI, asking it to fix the implementation. Repeat from Step 3. Step 6: Refactor - Optionally, once the test is green, you can ask the AI for refactoring suggestions, always ensuring the tests remain green."
+
+**Slide 4: Demo: One AI-TDD Cycle**
+*   **Text:** (Live Demo - Simple Example: e.g., Add two numbers function)
+    *   Show failing test (`TestAdd`).
+    *   Show minimal func skeleton `func Add(a, b int) int { return 0 }`.
+    *   Prompt: `Implement the Add function in @math.go to pass the failing test in @math_test.go#TestAdd.`
+    *   Show AI generating `return a + b`.
+    *   Run tests -> Show pass.
+*   **Things to Say:** "Let's quickly demo one cycle. Here's a simple failing test for an `Add` function [Show test]. Here's the minimal skeleton code returning 0 [Show skeleton]. Now I prompt the AI specifically to implement `Add` to pass `TestAdd`, providing both files as context [Run Prompt]. The AI generates the correct implementation [Show AI code]. I run the tests [Run tests], and they pass. Red-Green, achieved with AI assistance."
+
+**Slide 5: Transition to Lab**
+*   **Text:** Lab Time: Practice the AI-TDD Loop!
+*   **Things to Say:** "This loop is incredibly effective for ensuring correctness when AI generates code for well-defined tasks. In the lab, you'll get hands-on practice applying this AI-TDD workflow to implement a feature or fix a bug using a provided starter or your own task."
+
+---
+
 ## Lab (45 mins)
 
 **Goal:** Apply the AI-TDD loop to implement a feature or fix a bug.
