@@ -41,7 +41,7 @@ Ben
 ### 12:15 p.m.-1:00 p.m. — Lunch (45 mins)
 
 ### 1:00 p.m.–2:00 p.m. — [Presentation: Effective Prompting Strategies](./bootcamp_materials/curriculum/day1_prompt_strategies.md) (1 hour)
-AJ
+AJ but ask Ada
 - Techniques: Few-shot, Role Prompting, CoT, Being Specific.
 - Best Practices for reliable outputs.
 
@@ -52,7 +52,7 @@ Sam
 ### 2:30 p.m.–3:00 p.m. — Break (30 mins)
 
 ### 3:00 p.m.–4:00 p.m. — [Presentation/Lab: Documenting Systems with AI](./bootcamp_materials/curriculum/day1_documentation_with_ai.md) (1 hour)
-Chow
+Charan
 - Techniques for generating code summaries, sequence diagrams, architecture overviews using AI.
 - Lab: Apply documentation techniques to a code module.
 
